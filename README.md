@@ -1,18 +1,33 @@
-
-🧰 Một công cụ với mục đích giúp việc quản lý nhiều máy chủ của trò chơi Minecraft trở nên dễ dàng và chuyên nghiệp hết sức có thể!
-
----
-
-Hiện tác giả đang lập trình phần mềm bằng ngôn ngữ lập trình "Python" và "Module" hóa các thành phần để mọi người đều có thể dễ dàng chỉnh sửa lại ứng dụng của tôi.
-
-Nền tảng đang được cố gắng mang lên đa nền tảng để hoạt động với các định dạng hiện đại nhất mà các hệ điều hành có với thứ tự ưu tiên cập nhập phần mềm trên từng nền tảng:
-- windows: .msi
-- Ubuntu: .deb
-- Fedora: .rpm
-* Hiện tại tôi không hỗ trợ định dạng của MacOS vì thật sự không thể nghĩ ai lại có thể chạy máy chủ trên máy Mac nhưng sớm sẽ có định dạng dành cho mac để họ cùng đóng góp vào ALVE NEXUS hoặc có thể đóng góp qua cách chạy trực tiếp qua Python.
-
-Tôi mong rằng mọi người có thể ngày càng giúp phần mềm ALVE NEXUS của tôi ngày càng phát triển như việc nhỏ nhất là báo cáo lỗi, đóng góp "codes" để sản phẩm có thể tốt hơn từng ngày.
+# 🌌 ALVE NEXUS
+> **Sứ mệnh:** Biến việc quản lý cụm máy chủ Minecraft trở nên dễ dàng và chuyên nghiệp nhất có thể!
 
 ---
 
-Trang web chính thức của tác giả: https://sites.google.com/view/alve-nexus/trang-ch%E1%BB%A7
+## 🛠️ Triết lý Phát triển
+Hiện tại, **Alve Nexus** được xây dựng 100% bằng ngôn ngữ **Python** với cấu trúc **Module hóa**. 
+* **Tự do tùy biến:** Mọi thành phần đều được tách biệt để cộng đồng có thể dễ dàng chỉnh sửa, tối ưu lại theo nhu cầu riêng.
+* **Mã nguồn mở:** Phát hành dưới giấy phép **GPLv3** – bảo vệ sự minh bạch và ghi công tác giả.
+
+## 📦 Hỗ trợ Đa nền tảng
+Chúng tôi nỗ lực mang Alve Nexus lên mọi hệ điều hành với các định dạng cài đặt hiện đại nhất. Thứ tự ưu tiên cập nhật như sau:
+
+| Hệ điều hành | Định dạng ưu tiên | Trạng thái |
+| :--- | :--- | :--- |
+| **Windows** | `.msi` | 🔥 Ưu tiên số 1 |
+| **Ubuntu** | `.deb` | ✅ Đang phát triển |
+| **Fedora** | `.rpm` | ✅ Đang phát triển |
+| **MacOS** | `.py` | 🍎 Hỗ trợ chạy trực tiếp qua Python |
+
+> *Lưu ý: Dù không khuyến khích chạy máy chủ trên Mac, nhưng chúng tôi sẽ sớm cung cấp định dạng riêng để cộng đồng Mac có thể cùng đóng góp vào dự án.*
+
+## 🤝 Đóng góp cho dự án
+Tôi luôn mong muốn nhận được sự hỗ trợ từ cộng đồng để Alve Nexus tốt hơn mỗi ngày:
+1. **Báo cáo lỗi (Issues):** Giúp tôi tìm ra những hạt sạn nhỏ nhất.
+2. **Đóng góp Code (Pull Requests):** Cùng nhau xây dựng những Module mạnh mẽ hơn.
+3. **Lan tỏa:** Chia sẻ dự án đến các Admin server khác.
+
+## 🔗 Thông tin chính thức
+🌐 **Trang chủ:** [Alve Nexus - Google Sites](https://sites.google.com/view/alve-nexus/trang-ch%E1%BB%A7)
+
+---
+*Phát triển bởi lòng nhiệt huyết của một lập trình viên yêu Minecraft.*
